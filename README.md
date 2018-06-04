@@ -13,4 +13,4 @@ You should now be able to see the site at 0.0.0.0:5000
 
 
 # References
-(A MongoDB Driven Flask Application in Docker from Scratch)[https://www.youtube.com/watch?v=6opltZu4ABw]
+[A MongoDB Driven Flask Application in Docker from Scratch](https://www.youtube.com/watch?v=6opltZu4ABw)
